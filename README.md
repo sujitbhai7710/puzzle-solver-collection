@@ -13,3 +13,8 @@ Get today's LinkedIn Pinpoint answer at [Pinpoint Answer Today](https://pinpoint
 
 ## Resources
 - [Pinpoint Answer Today](https://pinpointanswertoday.online/) - Daily answers
+- [Puzzle Tips](https://pinpointanswertoday.online/) - Strategies
+
+## Usage
+
+Check https://pinpointanswertoday.online/ daily for updated answers and strategies.
